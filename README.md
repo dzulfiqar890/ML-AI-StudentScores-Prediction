@@ -1,6 +1,7 @@
 # Student Scores Prediction
 This project aims to predict student scores based on the number of hours studied using machine learning techniques.
 <br>
+<img href="FlowChart.png">
 ## Problem
 Educators often face challenges in predicting students' test scores based solely on hours studied. Without the right model, predictions can be biased or less accurate, thereby affecting learning decisions and guidance strategies.
 
